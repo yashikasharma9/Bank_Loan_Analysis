@@ -94,10 +94,4 @@ Macros enabled (for .xlsm version)
 This is an individual project developed for learning and showcasing data analysis capabilities.  
 **Feel free to fork, adapt, or contribute!**
 
-## 📬 Contact
 
-If you have any questions or would like to collaborate:
-
-**📧 Email**: [your-email@example.com]  
-**🔗 LinkedIn**: [Your LinkedIn Profile]  
-**📁 Portfolio**: [Link to other projects]
