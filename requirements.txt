@@ -1,0 +1,5 @@
+Microsoft Excel 2016 or above
+Power Query
+Pivot Tables
+Slicer functionality
+Macros (for .xlsm support)
